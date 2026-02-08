@@ -6,9 +6,7 @@
 
 @layer base {
   :root {
-    /* АНТИКОР Dark Theme - Civic Tech Design System */
-    
-    /* Core backgrounds - deep, secure darks */
+
     --background: 220 20% 6%;
     --foreground: 210 20% 95%;
 
@@ -18,34 +16,26 @@
     --popover: 220 18% 9%;
     --popover-foreground: 210 20% 95%;
 
-    /* Primary - Ukrainian Yellow for actions */
     --primary: 45 100% 51%;
     --primary-foreground: 220 20% 6%;
 
-    /* Secondary - muted surface */
     --secondary: 220 15% 14%;
     --secondary-foreground: 210 15% 85%;
 
-    /* Muted - subtle elements */
     --muted: 220 12% 18%;
     --muted-foreground: 215 15% 55%;
 
-    /* Accent - Ukrainian Blue for trust */
     --accent: 210 100% 55%;
     --accent-foreground: 210 20% 98%;
 
-    /* Destructive - alert red */
     --destructive: 0 72% 51%;
-    --destructive-foreground: 210 20% 98%;
-
-    /* Borders and inputs */
+    --destructive-foreground: 
     --border: 220 12% 18%;
     --input: 220 12% 14%;
     --ring: 45 100% 51%;
 
     --radius: 0.625rem;
 
-    /* Custom semantic colors */
     --success: 142 76% 36%;
     --success-foreground: 210 20% 98%;
     --warning: 38 92% 50%;

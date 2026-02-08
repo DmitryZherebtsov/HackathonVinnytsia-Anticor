@@ -6,7 +6,6 @@ import { Button } from "@/components/ui/button";
 
 const Dashboard = () => {
   const navigate = useNavigate();
-  // For demo, we'll show anonymous mode. In real app, this would come from auth state
   const isAnonymous = true;
 
   return (
